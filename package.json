@@ -1,0 +1,21 @@
+{
+  "name": "gabion",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Gabion UI Kit",
+  "author": "Vladimir Zaguliaev",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oinn/gabion.git"
+  }
+}
